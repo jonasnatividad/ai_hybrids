@@ -1,4 +1,4 @@
-# AI_Hybrids - First Iteration
+# AI Hybrids - First Iteration
 This project is the first iteration of a Python codebase that leverages OpenAI's API to generate prompts and images of randomly selected hybrid animals. It showcases the foundational work done in developing a basic model to create unique and imaginative animal hybrids.
 
 ## Project Description
