@@ -24,5 +24,5 @@ Feel free to reach out if you have any questions or need assistance with running
 To explore the initial version locally, follow these steps:
 
 ```bash
-git clone git@github.com:jonasnatividad/playprophet.git
+git clone git@github.com:jonasnatividad/ai_hybrids.git
 
