@@ -25,4 +25,5 @@ To explore the initial version locally, follow these steps:
 
 ```bash
 git clone git@github.com:jonasnatividad/ai_hybrids.git
+```
 
